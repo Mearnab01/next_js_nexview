@@ -71,7 +71,7 @@ const AuthForm = ({ type }: { type: FormType }) => {
             width={40}
             height={40}
             alt="logo"
-            className="rotate-90 rounded-full p-2 border-2 border-[#9a6efe]"
+            className="rotate-90 scale-y-[-1]rounded-full p-2 border-2 border-[#9a6efe]"
           />
           <h2 className="text-light-100 font-bold text-3xl">NexView AI</h2>
         </div>
